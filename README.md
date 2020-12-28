@@ -3,3 +3,4 @@
 This repo contains raspberry pi projects.
 
 - Simple webserver
+- Mining Monero
